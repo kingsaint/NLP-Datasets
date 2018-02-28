@@ -1,5 +1,5 @@
 # NLP-Datasets
-This is an attemp to make a consolidated list of datasets available for different NLP tasks. 
+This is an attemp to compile a consolidated list of datasets available for different NLP tasks. This work is under progress.
 ## Question Answering
 1. Stanford SQuAD: https://rajpurkar.github.io/SQuAD-explorer/
 2. Microsoft MARCO: http://www.msmarco.org/dataset.aspx
