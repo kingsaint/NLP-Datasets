@@ -3,10 +3,10 @@ This is an attemp to make a consolidated list of datasets available for differen
 ## Question Answering
 1. Stanford SQuAD: https://rajpurkar.github.io/SQuAD-explorer/
 2. Microsoft MARCO: http://www.msmarco.org/dataset.aspx
-3. RACE: 
-4. TriviaQA:
-5. WikiQA
-6. CNN/ Dailymail
+3. CMU RACE: http://www.cs.cmu.edu/~glai1/data/race/
+4. University of Washington TriviaQA: http://nlp.cs.washington.edu/triviaqa/
+5. Microsoft WikiQA: https://www.microsoft.com/en-us/download/details.aspx?id=52419
+6. CNN/ Dailymail: 
 7. TREC
 8. Children Book
 ## Dialog Generation
