@@ -13,6 +13,8 @@ This is an attemp to compile a consolidated list of datasets available for diffe
 ## Dialog Generation
 A compilation for all types of dialog generation datasets: https://breakend.github.io/DialogDatasets/
 ## Knowledge Graph Completion
+1. FB15K (FreeBase)
+2. WN18 (WordNet)
 ## Machine Translation
 ## Summary
 ## Sentiment Analysis
