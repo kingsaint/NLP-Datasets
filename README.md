@@ -13,12 +13,15 @@ This is an attemp to compile a consolidated list of datasets available for diffe
 ## Dialog Generation
 A compilation for all types of dialog generation datasets: https://breakend.github.io/DialogDatasets/
 ## Knowledge Graph Completion
-1. FB15K (FreeBase)
-2. WN18 (WordNet)
+1. FB15K (FreeBase): https://github.com/ttrouill/complex/tree/master/datasets
+2. WN18 (WordNet): https://github.com/ttrouill/complex/tree/master/datasets
 ## Machine Translation
+1. WMT: http://www.statmt.org/wmt16/translation-task.html#download
+
 ## Summary
 ## Sentiment Analysis
-
+1. IMDb Movie Review: http://ai.stanford.edu/~amaas/data/sentiment/
+2. Movie review data (Cornell): http://www.cs.cornell.edu/people/pabo/movie-review-data/
 ## Linked Open Data 
 1. RDF data in HDT format: http://www.rdfhdt.org/datasets/
 2. Wikidata: https://www.wikidata.org/wiki/Wikidata:Database_download
