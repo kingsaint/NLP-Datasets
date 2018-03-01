@@ -16,9 +16,10 @@ A compilation for all types of dialog generation datasets: https://breakend.gith
 ## Machine Translation
 ## Summary
 ## Sentiment Analysis
+
 ## Linked Open Data 
-RDF data in HDT format: http://www.rdfhdt.org/datasets/
-Wikidata: https://www.wikidata.org/wiki/Wikidata:Database_download
+1. RDF data in HDT format: http://www.rdfhdt.org/datasets/
+2. Wikidata: https://www.wikidata.org/wiki/Wikidata:Database_download
 ## Image Caption Generation
 1. MS COCO: http://cocodataset.org/#home
 2. Flikr8K: http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html
