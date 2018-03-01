@@ -7,6 +7,7 @@ This is an attemp to compile a consolidated list of datasets available for diffe
 4. University of Washington TriviaQA: http://nlp.cs.washington.edu/triviaqa/
 5. Microsoft WikiQA: https://www.microsoft.com/en-us/download/details.aspx?id=52419
 6. CNN/ Dailymail: https://cs.nyu.edu/~kcho/DMQA/
+7. NewsQA: https://datasets.maluuba.com/NewsQA/dl
 7. TREC:
 8. Children Book
 ## Dialog Generation
