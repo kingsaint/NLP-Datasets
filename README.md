@@ -16,7 +16,7 @@ A compilation for all types of dialog generation datasets: https://breakend.gith
 ## Machine Translation
 ## Summary
 ## Sentiment Analysis
-## LOD 
+## Linked Open Data 
 RDF data in HDT format: http://www.rdfhdt.org/datasets/
 
 ## Image Caption Generation
