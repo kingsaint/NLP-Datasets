@@ -9,7 +9,6 @@ This is an attemp to compile a consolidated list of datasets available for diffe
 6. CNN/ Dailymail: https://cs.nyu.edu/~kcho/DMQA/
 7. NewsQA: https://datasets.maluuba.com/NewsQA/dl
 7. TREC: http://trec.nist.gov/data/qamain.html
-8. Children Book Test: 
 ## Dialog Generation
 A compilation for all types of dialog generation datasets: https://breakend.github.io/DialogDatasets/
 ## Knowledge Graph Completion
@@ -17,11 +16,10 @@ A compilation for all types of dialog generation datasets: https://breakend.gith
 2. WN18 (WordNet): https://github.com/ttrouill/complex/tree/master/datasets
 ## Machine Translation
 1. WMT: http://www.statmt.org/wmt16/translation-task.html#download
-
-## Summary
 ## Sentiment Analysis
 1. IMDb Movie Review: http://ai.stanford.edu/~amaas/data/sentiment/
 2. Movie review data (Cornell): http://www.cs.cornell.edu/people/pabo/movie-review-data/
+3. Yelp dataset: https://www.yelp.com/dataset/challenge
 ## Linked Open Data 
 1. RDF data in HDT format: http://www.rdfhdt.org/datasets/
 2. Wikidata: https://www.wikidata.org/wiki/Wikidata:Database_download
