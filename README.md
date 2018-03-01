@@ -20,11 +20,11 @@ A compilation for all types of dialog generation datasets: https://breakend.gith
 RDF data in HDT format: http://www.rdfhdt.org/datasets/
 
 ## Image Caption Generation
-MS COCO: http://cocodataset.org/#home
-Flikr8K: http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html
-Flikr30K: http://shannon.cs.illinois.edu/DenotationGraph/
-PASCAL : http://vision.cs.uiuc.edu/pascal-sentences/
-Visual Genome: http://visualgenome.org
+1. MS COCO: http://cocodataset.org/#home
+2. Flikr8K: http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html
+3. Flikr30K: http://shannon.cs.illinois.edu/DenotationGraph/
+4. PASCAL : http://vision.cs.uiuc.edu/pascal-sentences/
+5. Visual Genome: http://visualgenome.org
 
 
 
