@@ -16,6 +16,8 @@ This is an attemp to compile a consolidated list of datasets available for diffe
 ## Summary
 ## Sentiment Analysis
 ## LOD 
+RDF data in HDT format: http://www.rdfhdt.org/datasets/
+
 ## Image Caption Generation
 MS COCO: http://cocodataset.org/#home
 
