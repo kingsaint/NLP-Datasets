@@ -8,9 +8,10 @@ This is an attemp to compile a consolidated list of datasets available for diffe
 5. Microsoft WikiQA: https://www.microsoft.com/en-us/download/details.aspx?id=52419
 6. CNN/ Dailymail: https://cs.nyu.edu/~kcho/DMQA/
 7. NewsQA: https://datasets.maluuba.com/NewsQA/dl
-7. TREC:
-8. Children Book
+7. TREC: http://trec.nist.gov/data/qamain.html
+8. Children Book Test: 
 ## Dialog Generation
+A compilation for all types of dialog generation datasets: https://breakend.github.io/DialogDatasets/
 ## Knowledge Graph Completion
 ## Machine Translation
 ## Summary
@@ -20,5 +21,11 @@ RDF data in HDT format: http://www.rdfhdt.org/datasets/
 
 ## Image Caption Generation
 MS COCO: http://cocodataset.org/#home
+Flikr8K: http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html
+Flikr30K: http://shannon.cs.illinois.edu/DenotationGraph/
+PASCAL : http://vision.cs.uiuc.edu/pascal-sentences/
+Visual Genome: http://visualgenome.org
+
+
 
 
