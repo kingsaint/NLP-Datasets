@@ -29,7 +29,10 @@ A compilation for all types of dialog generation datasets: https://breakend.gith
 3. Flikr30K: http://shannon.cs.illinois.edu/DenotationGraph/
 4. PASCAL : http://vision.cs.uiuc.edu/pascal-sentences/
 5. Visual Genome: http://visualgenome.org
-
+## Visual QA:
+1. CLEVR
+2. NLVR
+3. 
 
 
 
