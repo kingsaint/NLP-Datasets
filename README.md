@@ -32,7 +32,7 @@ A compilation for all types of dialog generation datasets: https://breakend.gith
 ## Visual QA:
 1. CLEVR
 2. NLVR
-3. 
+3. VQA http://visualqa.org/download.html
 
 
 
