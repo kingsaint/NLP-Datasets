@@ -34,6 +34,7 @@ A compilation for all types of dialog generation datasets: https://breakend.gith
 ## Language Grounding / Visual Reasoning
 1. CLEVR https://cs.stanford.edu/people/jcjohns/clevr/
 2. NLVR http://lic.nlp.cornell.edu/nlvr/
+3. FigureQA https://datasets.maluuba.com/FigureQA
 
 
 
