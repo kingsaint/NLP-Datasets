@@ -1,14 +1,19 @@
 # NLP-Datasets
 This is an attemp to compile a consolidated list of datasets available for different NLP tasks. This work is under progress.
 ## Question Answering
-1. Stanford SQuAD: https://rajpurkar.github.io/SQuAD-explorer/
-2. Microsoft MARCO: http://www.msmarco.org/dataset.aspx
-3. CMU RACE: http://www.cs.cmu.edu/~glai1/data/race/
-4. University of Washington TriviaQA: http://nlp.cs.washington.edu/triviaqa/
-5. Microsoft WikiQA: https://www.microsoft.com/en-us/download/details.aspx?id=52419
-6. CNN/ Dailymail: https://cs.nyu.edu/~kcho/DMQA/
-7. NewsQA: https://datasets.maluuba.com/NewsQA/dl
-7. TREC: http://trec.nist.gov/data/qamain.html
+1. Google Natural Questions: https://ai.google.com/research/NaturalQuestions
+2. Stanford SQuAD 2.0: https://rajpurkar.github.io/SQuAD-explorer/
+3. Stanford SQuAD: https://rajpurkar.github.io/SQuAD-explorer/
+4. Microsoft MARCO: http://www.msmarco.org/dataset.aspx
+5. CMU RACE: http://www.cs.cmu.edu/~glai1/data/race/
+6. University of Washington TriviaQA: http://nlp.cs.washington.edu/triviaqa/
+7. Microsoft WikiQA: https://www.microsoft.com/en-us/download/details.aspx?id=52419
+8. CNN/ Dailymail: https://cs.nyu.edu/~kcho/DMQA/
+9. NewsQA: https://datasets.maluuba.com/NewsQA/dl
+10. TREC: http://trec.nist.gov/data/qamain.html
+## Conversational QA
+1. CoQA: https://stanfordnlp.github.io/coqa/
+2. CSQA: https://amritasaha1812.github.io/CSQA/download/
 ## Dialog Generation
 A compilation for all types of dialog generation datasets: https://breakend.github.io/DialogDatasets/
 ## Knowledge Graph Completion
