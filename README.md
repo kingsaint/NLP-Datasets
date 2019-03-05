@@ -1,16 +1,17 @@
 # NLP-Datasets
 This is an attemp to compile a consolidated list of datasets available for different NLP tasks. This work is under progress.
 ## Question Answering
-1. Google Natural Questions: https://ai.google.com/research/NaturalQuestions
-2. Stanford SQuAD 2.0: https://rajpurkar.github.io/SQuAD-explorer/
-3. Stanford SQuAD: https://rajpurkar.github.io/SQuAD-explorer/
-4. Microsoft MARCO: http://www.msmarco.org/dataset.aspx
-5. CMU RACE: http://www.cs.cmu.edu/~glai1/data/race/
-6. University of Washington TriviaQA: http://nlp.cs.washington.edu/triviaqa/
-7. Microsoft WikiQA: https://www.microsoft.com/en-us/download/details.aspx?id=52419
-8. CNN/ Dailymail: https://cs.nyu.edu/~kcho/DMQA/
-9. NewsQA: https://datasets.maluuba.com/NewsQA/dl
-10. TREC: http://trec.nist.gov/data/qamain.html
+1. DROP Allen NLP: https://allennlp.org/drop.html
+2. Google Natural Questions: https://ai.google.com/research/NaturalQuestions
+3. Stanford SQuAD 2.0: https://rajpurkar.github.io/SQuAD-explorer/
+4. Stanford SQuAD: https://rajpurkar.github.io/SQuAD-explorer/
+5. Microsoft MARCO: http://www.msmarco.org/dataset.aspx
+6. CMU RACE: http://www.cs.cmu.edu/~glai1/data/race/
+7. University of Washington TriviaQA: http://nlp.cs.washington.edu/triviaqa/
+8. Microsoft WikiQA: https://www.microsoft.com/en-us/download/details.aspx?id=52419
+9. CNN/ Dailymail: https://cs.nyu.edu/~kcho/DMQA/
+10. NewsQA: https://datasets.maluuba.com/NewsQA/dl
+11. TREC: http://trec.nist.gov/data/qamain.html
 ## Conversational QA
 1. CoQA: https://stanfordnlp.github.io/coqa/
 2. CSQA: https://amritasaha1812.github.io/CSQA/download/
