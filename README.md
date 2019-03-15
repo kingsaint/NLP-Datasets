@@ -15,6 +15,7 @@ This is an attemp to compile a consolidated list of datasets available for diffe
 ## Conversational QA
 1. CoQA: https://stanfordnlp.github.io/coqa/
 2. CSQA: https://amritasaha1812.github.io/CSQA/download/
+3. QuAC: https://quac.ai
 ## Dialog Generation
 A compilation for all types of dialog generation datasets: https://breakend.github.io/DialogDatasets/
 ## Knowledge Graph Completion
